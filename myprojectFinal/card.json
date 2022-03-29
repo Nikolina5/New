@@ -1,0 +1,55 @@
+"card" : [
+    {
+    "title gore levo": "Breakfast",
+    "image": "",
+     "naslov": "Homemade Pizza",
+     "tekst": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.",
+    },
+    {    "title gore levo": "lunch",
+        "image": "",
+         "naslov": "Sea Spagethii",
+         "tekst": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English."
+    },
+    {
+        "title gore levo": "brunch",
+        "image": "",
+         "naslov": "Easy Tacos",
+         "tekst": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English."
+    },
+    {
+        "title gore levo": "diner",
+        "image": "",
+         "naslov": "Energy Booster",
+         "tekst": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.",
+    },
+    {
+        "title gore levo": "Breakfast",
+        "image": "",
+         "naslov": "Homemade Pizza",
+         "tekst": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.",
+    },
+    {
+        "title gore levo": "Breakfast",
+        "image": "",
+         "naslov": "Homemade Pizza",
+         "tekst": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.",
+    },
+    {
+        "title gore levo": "Breakfast",
+        "image": "",
+         "naslov": "Mac & Bacon (and cheese)",
+         "tekst": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.",
+    },
+    {
+        "title gore levo": "diner",
+        "image": "",
+         "naslov": "Veggies Lasagna",
+         "tekst": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.",
+    },
+    {
+        "title gore levo": "Breakfast",
+        "image": "",
+         "naslov": "Homemade Pizza",
+         "tekst": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using ‘Content here, content here’, making it look like readable English.",
+    }
+];
